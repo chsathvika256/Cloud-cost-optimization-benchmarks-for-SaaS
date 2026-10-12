@@ -1,0 +1,11 @@
+.mba-analysis-grid,
+.mba-panel {
+  min-width: 0;
+}
+
+@media (max-width: 700px) {
+  .mba-table-wrap {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}
